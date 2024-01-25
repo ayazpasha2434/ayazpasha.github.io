@@ -1,0 +1,32 @@
+Privacy Policy for Slow Scroll
+This Privacy Policy describes how ABC, ("we", "us", or "our") collects, uses, and shares personal information when you use our Slow Scroll browser extension (the "Extension").
+
+Information We Collect
+Personal Information:
+The Extension does not collect any personally identifiable information from users.
+
+Non-Personal Information:
+The Extension may collect non-personal information, such as browsing behavior, usage patterns, and technical information related to the user's browser or device. This information is collected for the sole purpose of improving the functionality and user experience of the Extension.
+
+How We Use Information
+We may use the collected information for the following purposes:
+
+To provide and maintain the Extension's functionality.
+To improve the user experience and optimize the performance of the Extension.
+To analyze usage patterns and gather insights for the development of future updates.
+To respond to user inquiries, comments, or feedback.
+Information Sharing and Disclosure
+We do not sell, trade, or otherwise transfer personal information to third parties. However, non-personal information may be shared with third-party service providers for analytics and performance monitoring purposes.
+
+Security
+We take reasonable measures to protect the information collected through the Extension from unauthorized access, disclosure, alteration, or destruction.
+
+Your Choices
+Users may choose to disable or uninstall the Extension at any time. Disabling or uninstalling the Extension will stop any further collection of information.
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Users are encouraged to review this page periodically for any changes.
+
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at ayazpasha2434@gmail.com.
+
